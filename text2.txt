@@ -1,1 +1,3 @@
 this from text2 files
+
+added addition info in text2
